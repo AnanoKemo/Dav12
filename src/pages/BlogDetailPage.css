@@ -1,0 +1,21 @@
+.blog-detail-page {
+    margin-top: 50px;
+  }
+  
+  .blog-detail-page h1 {
+    font-size: 30px;
+    color: black;
+  }
+  
+  .blog-detail-page p {
+    font-size: 18px;
+    color: black;
+  }
+  
+  .blog-detail-page a {
+    display: inline-block;
+    padding: 10px;
+    background-color: rgb(128, 110, 87);
+    color: white;
+  }
+  

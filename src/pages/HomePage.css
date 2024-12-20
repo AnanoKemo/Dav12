@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-top: 20px;
+  }
+  
+  .blog {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 350px;
+    height: 350px;
+    border: 2px solid black;
+    border-radius: 15%;
+    background-color: bisque;
+    padding-top: 10px;
+  }
+  
+  .blog h3 {
+    margin: 0; 
+    font-size: 40px;
+    color: black;
+  }
+  
+  .blog p {
+    font-size: 40px;
+    color: black;
+    margin-top: 5px;
+  }
